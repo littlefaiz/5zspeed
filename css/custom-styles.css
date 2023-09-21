@@ -1,0 +1,78 @@
+/*submit order*/
+#place_order {
+	color: rgb(255, 255, 255);
+	font-size: 24px;
+	line-height: 0.6;
+	font-weight: bolder;
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: 5px;
+	background-color: rgb(255, 44, 44);
+	width: 100%;
+	object-fit: contain;
+	border-radius: 5px 5% 5% 5%;
+}
+
+/*gambar billplz*/
+
+#payment img {
+	text-align: left;
+	width: 75%;
+	object-fit: cover;
+	padding-top: 20px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+.payment_method_billplz label {
+	font-weight: bold;
+	padding-top: 0;
+	padding-left: 0;
+	margin-top: -23px;
+	margin-left: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+
+#billing_first_name_field label {
+	font-weight: bold;
+}
+#billing_phone_field label {
+	font-weight: bold;
+}
+#billing_address_1_field label {
+	font-weight: bold;
+}
+#billing_state_field label {
+	font-weight: bold;
+}
+#billing_email_field label {
+	font-weight: bold;
+}
+#billing_postcode_field label {
+	font-weight: bold;
+}
+#billing_city_field label {
+	font-weight: bold;
+}
+#billing_country_field label {
+	font-weight: bold;
+}
+.woocommerce-additional-fields h3 {
+	font-size: 17px;
+}
+
+.woocommerce-error, .woocommerce-info, .woocommerce-message {
+
+    font-weight: bold;
+		color: #000000;
+	    text-align: center; /* Added to center the content */
+}
+
+/* Apply padding to WooCommerce checkout form */
+.woocommerce-checkout .woocommerce form.checkout {
+    padding: 20px; /* Adjust the padding value as needed */
+		padding-bottom: 40px;
+}
