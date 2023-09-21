@@ -1,12 +1,12 @@
 <?php
 /**
 /**
- * Plugin Name: Elementor Pro
- * Description: The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!
- * Plugin URI: https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
- * Author: Elementor.com
- * Version: 3.15.3
- * Author URI: https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash
+ * Plugin Name: 5Z F1
+ * Description: Redbull 2023
+ * Plugin URI: https://nope.com
+ * Author: Faiz
+ * Version: 1.44
+ * Author URI: https://nope.com
  */
 
 require __DIR__ . '/vendor/autoload.php';
